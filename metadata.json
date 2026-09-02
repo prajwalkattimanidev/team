@@ -1,0 +1,6 @@
+{
+  "name": "SmileCare Dental Clinic",
+  "description": "Modern, professional, and patient-focused dental clinic website with online appointment booking, doctor profiles, comprehensive dental services, and clinic administration dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
